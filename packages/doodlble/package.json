@@ -1,9 +1,8 @@
 {
   "name": "doodlble",
-  "version": "1.4.0",
+  "version": "1.6.0",
   "scripts": {
-    "build": "tsup",
-    "publish": "npm version minor && npm publish"
+    "build": "tsup"
   },
   "bin": {
     "doodble": "dist/index.js"
