@@ -8,7 +8,7 @@
     "doodble": "dist/index.js"
   },
   "files": [
-    "../math-helpers/src/**/*.*"
+    "temp"
   ],
   "devDependencies": {
     "tsconfig": "workspace:*",
