@@ -1,0 +1,11 @@
+{
+  "name": "boodle-dubble",
+  "license": "ISC",
+  "scripts": {
+    "build": "turbo run build"
+  },
+  "dependencies": {
+    "turbo": "1.7.0"
+  },
+  "packageManager": "pnpm@7.25.0"
+}
