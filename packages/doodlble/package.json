@@ -1,0 +1,13 @@
+{
+  "name": "doodlble",
+  "scripts": {
+    "build": "tsup"
+  },
+  "bin": {
+    "doodble": "dist/index.js"
+  },
+  "devDependencies": {
+    "tsconfig": "workspace:*",
+    "tsup": "6.5.0"
+  }
+}
