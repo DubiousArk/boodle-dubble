@@ -1,6 +1,6 @@
 {
   "name": "foodle-fiddle",
-  "version": "1.7.0",
+  "version": "2.1.0",
   "scripts": {
     "build": "tsup"
   },
@@ -8,6 +8,8 @@
     "foodle-fiddle": "dist/index.js"
   },
   "files": [
+    "dist",
+    "dist/temp",
     "temp"
   ],
   "dependencies": {
